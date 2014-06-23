@@ -13,7 +13,7 @@
 // }
 
 /*
- * circularBufferDel
+ * circularBufferNew
  *
  * Input
  *		length		length of the circularBuffer
